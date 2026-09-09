@@ -1,7 +1,0 @@
-streamlit
-setuptools
-tensorflow
-tensorflow-hub
-opencv-python-headless
-numpy
-pillow
