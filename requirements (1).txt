@@ -1,0 +1,7 @@
+streamlit
+setuptools<81
+tensorflow
+tensorflow-hub
+opencv-python-headless
+numpy
+pillow
